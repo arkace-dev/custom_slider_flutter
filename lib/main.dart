@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import './wavy_slider.dart';
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -19,6 +21,16 @@ class MyApp extends StatelessWidget {
 class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      body: Padding(
+        padding: const EdgeInsets.symmetric(
+          vertical: 8.0,
+          horizontal: 32.0,
+        ),
+        child: Center(
+          child: WavySlider(),
+        ),
+      ),
+    );
   }
 }
