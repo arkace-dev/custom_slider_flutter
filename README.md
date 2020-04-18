@@ -27,7 +27,13 @@ Custom Slider developed Flutter.
 
 ## Video
 
--  [Custom Slider]()
+-  [Custom Slider](https://imgur.com/RQVQH63)
+
+## Credits
+
+### Fun with Flutter
+
+-  [Tutorial](https://www.youtube.com/watch?v=Ze00Ws7c-Qc&list=PLjr4ufdmNA4J2-KwMutexAjjf_VmjL1eH)
 
 ## MIT LICENSE
 
